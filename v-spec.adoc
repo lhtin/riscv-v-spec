@@ -770,7 +770,6 @@ treated as part of the tail, and hence must obey the vta setting.
 
  SEW=8b      - - - - - - - - - - - - 3 2 1 0
  SEW=16b       -   -   -   -   -   -   1   0
- SEW=32b           -       -       -       0
 ----
 
 === Mapping for LMUL > 1
